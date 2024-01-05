@@ -131,7 +131,7 @@ app.put("/movies/:movieId/", async (request, response) => {
 
   movie_name = '${movieName}',
 
-  lead_actor = '${leadActor}';
+  lead_actor = '${leadActor}'
 
   WHERE 
 
